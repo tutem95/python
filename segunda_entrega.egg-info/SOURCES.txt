@@ -1,0 +1,8 @@
+setup.py
+Segunda pre-entrega+Monsegur/__init__.py
+Segunda pre-entrega+Monsegur/clientes.py
+Segunda pre-entrega+Monsegur/main.py
+segunda_entrega.egg-info/PKG-INFO
+segunda_entrega.egg-info/SOURCES.txt
+segunda_entrega.egg-info/dependency_links.txt
+segunda_entrega.egg-info/top_level.txt
